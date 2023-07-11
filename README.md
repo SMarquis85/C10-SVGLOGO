@@ -25,7 +25,7 @@ Challenge 10 - Boot Camp
 
 ## Description of Assignment
 
-This app empowers freelance web developers to create custom logos without hiring a graphic designer. It uses inquirer to prompt users for logo preferences, such as up to three characters of text, text color, and shape (triangle, square, or circle) with a corresponding color. After answering the prompts, the app generates an SVG file with the user's selections. I also implemented unit testing for the first time, with a test suite consisting of three tests to ensure accurate shapes and colors. This app showcases the potential of back-end developers and the importance of unit testing, even for small projects. I added minor error handling for the first prompt, limiting text input to three characters. Future development on this application could start with making the logo centered, adding on more error handling (SVG colors), additional unit testing, and adding more polygons and font styles for users to choose from.   
+This app empowers freelance web developers to create custom logos without hiring a graphic designer. It uses inquirer to prompt users for logo preferences, such as up to three characters of text, text color, and shape (triangle, square, or circle) with a corresponding color. After answering the prompts, the app generates an SVG file with the user's selections. I also implemented unit testing for the first time, with a test suite consisting of three tests to ensure accurate shapes and colors. This app showcases the potential of back-end developers and the importance of unit testing, even for small projects. I wanted to add minor error handling for the first prompt, limiting text input to three characters. Future development on this application could start with making the logo centered, adding on more error handling (SVG colors), additional unit testing, and adding more polygons and font styles for users to choose from.   
 
 ## About 
 
@@ -66,12 +66,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Screenshots
 
 
-> **(NPM seems to not load properly. I had to reinstall and uninstall it multiple times. No pictures)**
+> **(NPM seems to not load properly. I had to reinstall and uninstall it multiple times. Which explains why I re-did my repository multiple times.)**
 
 
 ## Technologies Used
 
-This assignment utilizes Node.js v16, inquirer v8.2.4 (node package manager), and file system module (node package manager), as well as jest v29.5.0 (node package manager) for conducting unit testing.
+This assignment should utilize Node.js v16, inquirer v8.2.4 (node package manager), and file system module (node package manager), as well as jest v29.5.0 (node package manager) for conducting unit testing. As mentioned above, I've had issues installing the proper packages and files.
 
 ## Installation
 
