@@ -1,0 +1,11 @@
+{
+  "name": "c10-svglogo-1",
+  "version": "1.0.0",
+  "description": "Challenge 10 - Boot Camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
