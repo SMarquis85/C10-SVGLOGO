@@ -4,7 +4,7 @@
   "description": "Challenge 10 - Boot Camp",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -12,7 +12,9 @@
     "lib": "lib"
   },
   "dependencies": {
-    "inquirer": "^9.2.8",
+    "inquirer": "^9.2.8"
+  },
+  "devDependencies": {
     "jest": "^29.6.1"
   }
 }
