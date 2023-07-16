@@ -2,7 +2,7 @@
 const fs = require('fs');  // File system module
 const readlineSync = require('readline-sync');  // Synchronous user input module
 const text = require('./lib/text');  // Custom text module
-const shapes = require('./lib/shape');  // Custom shape module
+const shapes = require('./lib/shapes');  // Custom shape module
 const basicTemplate = require('./lib/svgGenerator');  // Custom SVG template module
 
 // Function to generate SVG shapes
