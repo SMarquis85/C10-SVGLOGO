@@ -59,13 +59,19 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Live Screen Recording of Application Functionality
 
-> **(I have had issues with the recording. The file is too big and won't load properly. )**
+https://drive.google.com/file/d/1Lu9qrKlPwhbg6ZI_Nemr2Hk3XCMt72mP/view?usp=sharing
 
 ## Screenshots
 
+![images/SVG.1.png](images/SVG.1.png)
 
-> **(NPM seems to not load properly. I had to reinstall and uninstall it multiple times. Which explains why I re-did my repository multiple times.)**
+![images/SVG.2.png](images/SVG.2.png)
 
+![images/SVG.3.png](images/SVG.3.png)
+
+Example of Generated Logo
+
+![images/SVG.4.png](images/SVG.4.png)
 
 ## Technologies Used
 
