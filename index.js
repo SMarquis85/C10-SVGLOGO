@@ -36,3 +36,11 @@ fs.writeFile('logo.svg', svgLogo, (err) => {
   if (err) throw err;
   console.log('Generated logo.svg');
 });
+
+// Added after I got an error during my first test
+function shapeUserInput(shapeInput, shapeColorInput) {
+  // Check if the shape is valid and return the corresponding SVG shape code
+  return shapeInput.toLowerCase() === 'circle'
+    ? generateShapes(shapeInput, `fill="${shapeColorInput}"`) // Add "fill" keyword here
+    : generateShapes(shapeInput, shapeColorInput);
+}
