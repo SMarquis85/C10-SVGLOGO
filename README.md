@@ -132,7 +132,7 @@ License used for this project - MIT
 
 ## Final Work Review
 
-**"Always leave the code a little cleaner than when you found it."**  This action was applied to ALL JAVASCRIPT files. To create this README file, I used Sebastian Springer's Node.js book, references we're found on Google, multiple websites including W3Schools, DEV, GitHub, Insomnia and Tutorialspoint. YouTube was helpful as well as all ZOOM recordings (of previous classes). Looks much cleaner, organised and easier to find what you are looking for. Comments were added in JAVASCRIPT to show what was done and for what purpose. I've also created different files to write the code as JAVASCRIPT is a bit confusing for me but I seem to do better when I separate everything. Very useful trick given by my tutor, Patrick Lake.
+**"Always leave the code a little cleaner than when you found it."**  This action was applied to ALL JAVASCRIPT files. To create this assignment, I used Sebastian Springer's Node.js book, references we're found on Google, multiple websites including W3Schools, DEV, GitHub, Insomnia and Tutorialspoint. YouTube was helpful as well as all ZOOM recordings (of previous classes). Looks much cleaner, organised and easier to find what you are looking for. Comments were added in JAVASCRIPT to show what was done and for what purpose. I've also created different files to write the code as JAVASCRIPT is a bit confusing for me but I seem to do better when I separate everything. Very useful trick given by my tutor, Patrick Lake.
 
 > **(CARL-VIRT-FSF-PT-04-2023, Challenge 10 / README.md 2023)**
 > **(NODE.js, Sebastian Springer; First edition (2022) pages 31-101, 655-682. )**
